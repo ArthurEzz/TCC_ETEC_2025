@@ -1,4 +1,4 @@
-# 🚀 Gestta - Sistema de Ordem de Serviço e Estoque
+# Gestta - Sistema de Ordem de Serviço e Estoque
 
 ![Status do Projeto](https://img.shields.io/badge/Em%20Progresso%20-FFFF00)
 ![Licença](https://img.shields.io/badge/license-MIT-blue.svg)
@@ -7,19 +7,19 @@ Sistema web para gerenciamento de ordens de serviço e controle de estoque, dese
 
 ---
 
-## 📋 Índice
+## Índice
 
 * [Sobre o Projeto](#-sobre-o-projeto)
-* [✨ Funcionalidades](#-funcionalidades)
-* [📸 Screenshots](#-screenshots)
-* [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-* [⚙️ Como Executar o Projeto](#️-como-executar-o-projeto)
-* [👨‍💻 Autores](#-autores)
-* [📄 Licença](#-licença)
+* [Funcionalidades](#-funcionalidades)
+* [Screenshots](#-screenshots)
+* [Tecnologias Utilizadas](#️-tecnologias-utilizadas)
+* [Como Executar o Projeto](#️-como-executar-o-projeto)
+* [Autores](#-autores)
+*  Licença](#-licença)
 
 ---
 
-## 🎯 Sobre o Projeto
+## Sobre o Projeto
 
 Muitas microempresas de prestação de serviços ainda gerenciam suas operações com planilhas, papéis ou métodos informais. Isso gera retrabalho, perda de informações e falta de controle sobre o estoque de peças, impactando diretamente a eficiência e a lucratividade.
 
@@ -31,41 +31,41 @@ O **Gestta** foi criado para resolver esse problema, oferecendo uma plataforma c
 
 ---
 
-## ✨ Funcionalidades
+##Funcionalidades
 
-### 📦 Controle de Estoque
--   [👍] Cadastro de produtos/peças com descrição, quantidade e preço.
--   [👍] Movimentação de entrada e saída de itens.
--   [👍] Baixa automática de estoque ao vincular um item a uma Ordem de Serviço.
--   [👍] Alertas visuais para estoque baixo.
+###Controle de Estoque
+-   Cadastro de produtos/peças com descrição, quantidade e preço.
+-   Movimentação de entrada e saída de itens.
+-   Baixa automática de estoque ao vincular um item a uma Ordem de Serviço.
+-   Alertas visuais para estoque baixo.
 
-### 🔧 Ordens de Serviço (O.S.)
+### Ordens de Serviço (O.S.)
 
--   [👍] Descrição detalhada do equipamento e do defeito relatado.
--   [👍] Acompanhamento por status (Ex: `Aberto`, `Em Análise`, `Aguardando Peça`, `Concluído`).
+-   Descrição detalhada do equipamento e do defeito relatado.
+-   Acompanhamento por status (Ex: `Aberto`, `Em Análise`, `Aguardando Peça`, `Concluído`).
 
 
-### 👤 Cadastros Gerais
+### Cadastros Gerais
 
--   [👍] Sistema de autenticação
+-   Sistema de autenticação
 
 ---
 
-## ⏱️ Em Andamento
+## Em Andamento
 
-### 📦 Controle de Estoque
+### Controle de Estoque
 
-### 🔧 Ordens de Serviço (O.S.)
+### Ordens de Serviço (O.S.)
 -   [⭮] Criação de O.S. vinculada a um cliente e técnico.
 -   [⭮] Adição de produtos/peças do estoque diretamente na O.S.
 -   [⭮] Geração de O.S. em formato PDF para impressão ou envio.
 
-### 👤 Cadastros Gerais
--   [⭮] Gestão de Técnicos/Funcionários (CRUD).
+### Cadastros Gerais
+-   Gestão de Técnicos/Funcionários (CRUD).
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ccc5e9bf-283f-4de9-a417-d111809b00e8" alt="Tela de Login" width="48%">
   <img src="https://github.com/user-attachments/assets/5deefb5c-abe9-4a1c-9cc8-4731cad3905e" alt="Dashboard Principal" width="48%">
@@ -77,7 +77,7 @@ O **Gestta** foi criado para resolver esse problema, oferecendo uma plataforma c
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -89,7 +89,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 | **Hospedagem** | `InfinityFree` |
 | **Softwares** | `Git, Visual Studio Code, Xampp` |
 
-## 👨‍💻 Autores
+## Autores
 
 Este projeto foi desenvolvido por:
 
@@ -100,6 +100,6 @@ Este projeto foi desenvolvido por:
 * **Allan Yverson Damazio dos Santos** - [GitHub](https://github.com/Yverson77a)
 ---
 
-## 📄 Licença
+## Licença
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
